@@ -1,0 +1,11 @@
+=== Performance Comparison: CPU vs GPU (Matrix Size: 1024 x 1024) ===
+Calculating on CPU... Done!
+Calculating on GPU (cuBLAS)... Done!
+
+[Performance Result]
+- CPU Time: 3308.530000 ms
+- GPU Time: 0.132096 ms
+- Speedup:  25046.406250x
+------------------------------
+Total Error Norm: 0.000000e+00
+
